@@ -23,6 +23,12 @@
       "day": "mañana 5 pm",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "Estudiar intro",
+      "day": "Lunes 31 a las 14hs",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
